@@ -16,6 +16,6 @@ node index.js
  - GET [http://localhost:4567/](http://localhost:4567/)
  - GET [http://localhost:4567/api/v1/:name](http://localhost:4567/api/v1/zach)
  - POST [http://localhost:4567/api/v1/trains](http://localhost:4567/api/v1/trains) (use Postman)
-  - body.name
-  - body.time
-  - body.from
+   - body.name
+   - body.time
+   - body.from
